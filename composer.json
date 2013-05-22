@@ -1,0 +1,24 @@
+{
+    "name": "HATEOAS",
+    "description": "Hater Gonna HateOAS",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Jacek Wysocki",
+            "email": "jacek.wysocki@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"": "src/"}
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+
+    "require": {
+        "willdurand/hateoas": "@stable"
+    },
+
+    "require-dev": {
+    }
+}
