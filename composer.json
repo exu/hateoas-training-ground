@@ -16,7 +16,8 @@
     },
 
     "require": {
-        "willdurand/hateoas": "@stable"
+        "willdurand/hateoas": "@stable",
+        "zircote/hal": "*"
     },
 
     "require-dev": {
